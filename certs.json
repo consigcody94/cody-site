@@ -1,0 +1,759 @@
+{
+  "linkedin": "https://www.linkedin.com/in/cody-churchwell-69570522a",
+  "trailblazer": "https://www.salesforce.com/trailblazer/wyjwe4l24sutsgswf8",
+  "also_completed": [
+    {
+      "name": "The AI-native SDLC playbook",
+      "issuer": "Claude Academy",
+      "url": "https://academy.claude.com/courses/ai-native-sdlc-playbook",
+      "note": "no badge issued"
+    }
+  ],
+  "certs": [
+    {
+      "name": "Teaching AI Fluency",
+      "issuer": "Claude Academy",
+      "date": "2026-10-14",
+      "url": "https://academy.claude.com/badges/f5522805-fca4-4bee-a859-8bcfd8cac2b6",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "Claude with Google Cloud's Vertex AI",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/b1e01f38-138a-46af-b67c-a17b68426c1f",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Claude with Amazon Bedrock",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/dccdfd4a-501b-48f1-859e-beab1c7b66ab",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Building with the Claude API",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/3ba983b4-07a4-4ec8-9203-a55b594ecf58",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Introduction to Claude",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/1dd4b73b-320e-42dd-bc80-93f1dcf4a7c5",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Deploying Claude Enterprise with confidence: The five decisions that shape your rollout",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/81703249-cfff-4d32-bc16-1e7c4910f2e7",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Model Context Protocol: Advanced topics",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/58670c43-da74-47fd-acd6-4d0f89c67803",
+      "category": "Agents & MCP"
+    },
+    {
+      "name": "Building effective human-agent teams (beta)",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/19508321-16ef-469f-9651-987c47120b63",
+      "category": "Agents & MCP"
+    },
+    {
+      "name": "Claude Code in action",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/e4a65fa3-450e-40a5-95d3-5fdab4bebfaf",
+      "category": "Claude Code"
+    },
+    {
+      "name": "AI capabilities and limitations",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/947302b9-9d17-4d33-b58e-e3410c79cc2b",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "Introduction to Model Context Protocol",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/73ed8a13-220b-433c-9c85-96dd27750e2d",
+      "category": "Agents & MCP"
+    },
+    {
+      "name": "Introduction to Claude Cowork",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/bfb7f068-1c31-4314-9c86-913cdc0fe9cd",
+      "category": "Agents & MCP"
+    },
+    {
+      "name": "Claude Platform 101",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/dcae30dd-4972-4b5e-9060-74d24c35034f",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "Claude Code 101",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/f505fdad-f2eb-4d53-8bb8-8c8411930a4c",
+      "category": "Claude Code"
+    },
+    {
+      "name": "Claude 101",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/7c4179f6-3cbd-4258-b383-352aa366f75c",
+      "category": "Claude Platform & API"
+    },
+    {
+      "name": "AI Fluency for students",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/1207a5a8-fd19-4663-a25c-8413c966a312",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for small businesses",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/d6a3b729-33bf-4723-bf0f-6264f6d5c073",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for pK-12 educators",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/663518c3-b12c-4887-a7a7-97af9fb55c2c",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for nonprofits",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/bd244a42-394e-46e9-a308-57deeb2fd6bf",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for educators",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/3477131c-8cdc-4f3c-bfc1-5cd1a0f90de5",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for creative work",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/87461ce5-9b64-4675-802d-5fc4c44aabb7",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency for builders",
+      "issuer": "Claude Academy",
+      "date": "2026-10-13",
+      "url": "https://academy.claude.com/badges/411fafa6-b73b-430a-bb12-ec8a3d2bde0c",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "AI Fluency: Framework and foundations",
+      "issuer": "Claude Academy",
+      "date": "2026-10-12",
+      "url": "https://academy.claude.com/badges/4af9319c-3795-42f4-ae7b-4d68a94bf8ef",
+      "category": "AI Fluency"
+    },
+    {
+      "name": "GitHub responsible AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/paths/github-responsible-ai/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "Transform your business with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "Optimize business processes with Microsoft Copilot",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/paths/optimize-business-processes-with-ai/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "Draft, analyze, and present with Microsoft Copilot",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/paths/draft-analyze-present-microsoft-365-copilot/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "MS-4021 Copilot Immersion Experience",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/paths/copilot-immersion-experience/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "AI Fluency",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/paths/ai-fluency/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "AI concepts for developers and technology professionals",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/paths/ai-concepts/",
+      "category": "Learning paths"
+    },
+    {
+      "name": "Embrace responsible AI principles and practices",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/",
+      "category": "Modules"
+    },
+    {
+      "name": "Draft impactful documents using AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-14",
+      "url": "https://learn.microsoft.com/en-us/training/modules/draft-impactful-documents-using-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Build effective presentations with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/present-copilot-microsoft-powerpoint/",
+      "category": "Modules"
+    },
+    {
+      "name": "Unlock productivity and unleash creativity with AI powered chat",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/unlock-productivity-unleash-creativity-ai-powered-chat/",
+      "category": "Modules"
+    },
+    {
+      "name": "Uncover new data insights with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/uncover-new-data-insights-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Scale AI in your organization",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/scale-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Make your meetings more productive with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/make-your-meetings-more-productive-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Leverage AI tools and resources for your business",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/",
+      "category": "Modules"
+    },
+    {
+      "name": "Get ready to work with Microsoft Copilot",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/get-ready-work-microsoft-365-copilot/",
+      "category": "Modules"
+    },
+    {
+      "name": "From inbox to impact: Improve your email workflows with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/from-inbox-impact-improve-your-email-workflows-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Get started with Microsoft Copilot",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/get-started-with-copilot/",
+      "category": "Modules"
+    },
+    {
+      "name": "Explore responsible AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/responsible-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Explore internet search and beyond",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/explore-internet-search-beyond/",
+      "category": "Modules"
+    },
+    {
+      "name": "Explore AI for All",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/explore-ai-for-all/",
+      "category": "Modules"
+    },
+    {
+      "name": "Explore Generative AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/explore-generative-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Boost your productivity with Microsoft Copilot",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/boost-productivity-with-copilot/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to retrieval-augmented generation concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to AI-powered information extraction concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/introduction-information-extraction/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to natural language processing concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/introduction-language/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to generative AI and agents",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to computer vision concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to AI speech concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/introduction-ai-speech/",
+      "category": "Modules"
+    },
+    {
+      "name": "Introduction to AI concepts",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/",
+      "category": "Modules"
+    },
+    {
+      "name": "Explore AI basics",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/explore-ai-basics/",
+      "category": "Modules"
+    },
+    {
+      "name": "Create business value with AI",
+      "issuer": "Microsoft Learn",
+      "date": "2026-10-13",
+      "url": "https://learn.microsoft.com/en-us/training/modules/create-business-value/",
+      "category": "Modules"
+    },
+    {
+      "name": "Model Fine-Tuning",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/model-fine-tuning",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Trusted Agentic AI",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/trusted-agentic-ai",
+      "category": "Agentforce"
+    },
+    {
+      "name": "The Agentforce Trust Layer",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Setup with Agentforce: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-for-setup-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Programmatic Instructions in Agentforce",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/programmatic-instructions-in-agentforce",
+      "category": "Agentforce"
+    },
+    {
+      "name": "New Agentforce Builder: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/new-agentforce-builder-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Grounding an Agent with Data",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/grounding-an-agent-with-data",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Becoming an Agentblazer",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/becoming-an-agentblazer-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Autonomous Agents",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/autonomous-agents",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce: Agent Planning",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce Testing Tools and Strategies",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-testing-tools-and-strategies",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce on the Salesforce Mobile App: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-on-the-salesforce-mobile-app-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce Key Components: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-agents-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce for Service",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-service-agent-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce for Sales: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-sales-agents-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "AgentExchange: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/agentexchange-quick-look",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Introduction to Agentforce Builder",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/introduction-to-agent-builder",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Introduction to Agentforce",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/introduction-to-agentforce",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Agentforce Basics",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/einstein-copilot-basics",
+      "category": "Agentforce"
+    },
+    {
+      "name": "Responsible Creation of Artificial Intelligence",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/responsible-creation-of-artificial-intelligence",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Reasoning in Artificial Intelligence",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Large Language Models",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/large-language-models",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Generative AI for Organizations",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/generative-ai-for-organizations",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Generative AI for Images",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/image-generation-and-diffusion-models",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Data Bias Recognition and Prevention in AI",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/data-bias-recognition-and-prevention",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Data + AI + CRM: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/ai-data-crm-quick-look",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Critical Thinking and Decision-Making with Data and AI",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/critical-thinking-and-decision-making-with-data-and-ai",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Change Management for AI Implementation",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/change-management-for-ai-implementation",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Prompt Fundamentals",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/prompt-fundamentals",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Prompt Builder Basics",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/prompt-builder-basics",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Natural Language Processing Basics",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/natural-language-processing-basics",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Generative AI Basics",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/generative-ai-basics",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Data Fundamentals for AI",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/data-fundamentals-for-ai",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Artificial Intelligence Fundamentals",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/artificial-intelligence-fundamentals",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "AI Fluency Fundamentals",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/ai-fluency-fundamentals",
+      "category": "AI Fundamentals"
+    },
+    {
+      "name": "Secure and Trusted Headless Foundation",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/secure-and-trusted-headless-foundation",
+      "category": "Other"
+    },
+    {
+      "name": "Sales Cloud in Claude: Quick Look",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/salesforce-in-claude-quick-look",
+      "category": "Other"
+    },
+    {
+      "name": "Actionable Headless Use Cases",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/headless-360-use-cases-in-action",
+      "category": "Other"
+    },
+    {
+      "name": "Introduction to AIforce",
+      "issuer": "Salesforce Trailhead",
+      "date": "",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/salesforce-headless-360-quick-look",
+      "category": "Other"
+    },
+    {
+      "name": "Introduction to Security in the World of AI",
+      "issuer": "Google Skills",
+      "date": "",
+      "url": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc/badges/28850221",
+      "category": "AI"
+    },
+    {
+      "name": "Responsible AI: Applying AI Principles with Google Cloud",
+      "issuer": "Google Skills",
+      "date": "",
+      "url": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc/badges/28850192",
+      "category": "AI"
+    },
+    {
+      "name": "Innovating with Google Cloud Artificial Intelligence",
+      "issuer": "Google Skills",
+      "date": "",
+      "url": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc/badges/28850181",
+      "category": "AI"
+    },
+    {
+      "name": "Introduction to Large Language Models",
+      "issuer": "Google Skills",
+      "date": "",
+      "url": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc/badges/28850158",
+      "category": "AI"
+    },
+    {
+      "name": "Introduction to Generative AI",
+      "issuer": "Google Skills",
+      "date": "",
+      "url": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc/badges/28850131",
+      "category": "AI"
+    },
+    {
+      "name": "Get Started with Codex",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/1c0c3ff9-6379-4f51-a727-7d1d8afc7289?key=9c571d4f5cc3b693760f97b93039ff97ea12ee0b30d9ebc2b0e74d7369f8e85a",
+      "category": "Codex"
+    },
+    {
+      "name": "Scope AI Solutions",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/815b91f3-7d96-4641-8634-78de53381938?key=7880fc41965111c6b968c45122a332f25eb6de4e8d33c681fce36cfb8c5548ce",
+      "category": "Applied AI"
+    },
+    {
+      "name": "AI for Educators",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/08db4187-758f-4c23-b0fa-cde153084b2d?key=d2a9fce7196dccf86445dd0e88dab3915247a9085809ccddeeebe1e3a683f274",
+      "category": "Education"
+    },
+    {
+      "name": "AI for College Students",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/0d157a13-6926-49ad-a128-3071dc2c799b?key=5a490060858e7c45f54eb083bb0dbb26530b72884ac19fa722947f2ddadc903f",
+      "category": "Education"
+    },
+    {
+      "name": "Optimize AI Application Performance",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/95e1dec9-52e9-460f-89ab-cf00a781e9cd?key=3acb46c2347df41388df0895bfcb0db79bec599804e9d2ad2bff86909f4d5465",
+      "category": "Applied AI"
+    },
+    {
+      "name": "Applied AI Foundations",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/b907e27f-964c-4578-8966-712c997660bb?key=dbbd325902c90082f0dd64340c2d862a161da341a9946cc39fc4da5203b352e1",
+      "category": "Foundations"
+    },
+    {
+      "name": "AI Foundations",
+      "issuer": "OpenAI Academy",
+      "date": "",
+      "url": "https://oaiacademy.credential.net/b9ae74f9-cf83-4c2b-8c5c-3118b167c8e5?key=f645849ff7cc17b25abc345970bfd0ffea29faf549767aafa1873a20ff550047",
+      "category": "Foundations"
+    }
+  ],
+  "microsoft_learn": "https://learn.microsoft.com/en-us/users/codychurchwell-0534/",
+  "google_skills": "https://www.skills.google/public_profiles/9e72f8e2-9a80-4614-bd72-fc14a68f03dc",
+  "github": "https://github.com/consigcody94"
+}
