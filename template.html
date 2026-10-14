@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cody Churchwell · Founder, Sentinel Owl Technologies</title>
+<meta name="description" content="Cody Churchwell, founder of Sentinel Owl Technologies. Federal IT &amp; AI. {{COUNT}} certifications &amp; badges.">
+<link rel="canonical" href="https://cody.sentinelowl.tech/">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Cody Churchwell · Founder, Sentinel Owl Technologies">
+<meta property="og:description" content="Federal IT &amp; AI. {{COUNT}} certifications &amp; badges.">
+<meta property="og:url" content="https://cody.sentinelowl.tech/">
+<meta property="og:image" content="https://cody.sentinelowl.tech/assets/profile.jpg">
+<meta property="og:site_name" content="Cody Churchwell">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/styles.css">
+<script type="application/ld+json">{{JSONLD}}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="hero">
+  <div class="wrap hero-inner">
+    <img class="photo" src="/assets/profile.jpg?v={{PHOTOV}}" alt="Cody Churchwell" width="200" height="200">
+    <div class="hero-text">
+      <p class="eyebrow">Sentinel Owl Technologies</p>
+      <h1>Cody Churchwell</h1>
+      <p class="title">Founder, Sentinel Owl Technologies · Federal IT &amp; AI</p>
+      <div class="actions">
+        <a class="btn primary" href="{{LINKEDIN}}" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="btn" href="{{GITHUB}}" target="_blank" rel="noopener">GitHub</a>
+        <a class="btn" href="{{MSLEARN}}" target="_blank" rel="noopener">Microsoft Learn</a>
+        <a class="btn" href="{{TRAILBLAZER}}" target="_blank" rel="noopener">Trailblazer</a>
+        <a class="btn" href="https://sentinelowl.tech" target="_blank" rel="noopener">Sentinel Owl</a>
+      </div>
+    </div>
+  </div>
+</header>
+<main id="main" class="wrap">
+  <section class="bio" aria-labelledby="about">
+    <h2 id="about" class="sr">About</h2>
+    <blockquote class="statement"><p>Systems thinker and federal IT contractor focused on practical AI.</p></blockquote>
+    <p class="statement-sub">I build and support technology for organizations that need it to be secure, reliable, and useful, and I run Sentinel Owl Technologies.</p>
+  </section>
+  <section aria-labelledby="creds">
+    <div class="sec-head">
+      <h2 id="creds">Certifications &amp; Badges</h2>
+      <p class="count"><span id="cert-count">{{COUNT}}</span> certifications &amp; badges from {{ISSUERS}} issuer{{ISSUERS_S}}</p>
+    </div>
+    <div class="tools" id="tools" hidden>
+      <label class="filter"><span class="filter-label">Issuer</span>
+        <select id="issuer" aria-label="Filter credentials by issuer">
+          <option value="">All credentials ({{COUNT}})</option>
+{{CHIPS}}
+        </select>
+      </label>
+      <label class="search"><span class="sr">Search credentials</span><input type="search" id="q" placeholder="Search credentials" autocomplete="off"></label>
+    </div>
+    <p class="empty" id="empty" hidden>No credentials match.</p>
+{{GROUPS}}
+{{ALSO}}
+  </section>
+</main>
+<footer class="wrap foot">
+  <p>© <span id="yr">2026</span> Cody Churchwell · <a href="https://sentinelowl.tech" rel="noopener">Sentinel Owl Technologies</a></p>
+</footer>
+<script src="/app.js" defer></script>
+</body>
+</html>
